@@ -1,44 +1,24 @@
 {
-    "data": [
-        {
-            "id": 1,
-            "user": {
-                "displayname": "Alicia Kirana",
-                "username": "leeeshieu"
-            },
-            "tweet": "Hit the gym",
-            "time": "17:17",
-            "date": "29 February 2023"
-        },
-        {
-            "id": 2,
-            "user": {
-                "displayname": "Alicia Kirana",
-                "username": "leeeshieu"
-            },
-            "tweet": "Lorem ipsum lalala",
-            "time": "17:17",
-            "date": "29 February 2023"
-        },
-        {
-            "id": 3,
-            "user": {
-                "displayname": "RISTEK CSUI",
-                "username": "ristek"
-            },
-            "tweet": "Jangan lupa daftar oprec!",
-            "time": "23:59",
-            "date": "01 Maret 2023"
-        },
-        {
-            "id": 4,
-            "user": {
-                "displayname": "pacil menfess",
-                "username": "pacilfess"
-            },
-            "tweet": "kak xxx cakep bgt omg!!!",
-            "time": "18:20",
-            "date": "02 Maret 2023"
-        }
-    ]
+  "data": [
+    {
+      "user": {
+        "displayname": "Anonymous User",
+        "username": "mranonymous"
+      },
+      "tweet": "Halo! Selamat malam! Hari ini aku daftar RISTEK!",
+      "time": "21:35",
+      "date": "February 28, 2023",
+      "id": 1
+    },
+    {
+      "user": {
+        "displayname": "Anonymous User",
+        "username": "mranonymous"
+      },
+      "tweet": "Hari ini hari yang indah!",
+      "time": "21:40",
+      "date": "February 28, 2023",
+      "id": 2
+    }
+  ]
 }
