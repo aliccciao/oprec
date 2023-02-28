@@ -1,15 +1,18 @@
-# Getting Started with Create React App
+## Setting up JSON Server
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Data used in this project is still read & processed from the local computer, so
+you need to set up the JSON server before running the project.
 
-## Available Scripts
+To start the server, simply run :
 
-In the project directory, you can run:
+### `npx json-server --watch db.json --port 8000`
 
-### `npm start`
+Open [http://localhost:8000/data](http://localhost:8000/data)
 
-Runs the app in the development mode.\
+## Running the Project
+
+To start the project, simply run :
+
+### `npm run start`
+
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
